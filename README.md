@@ -1,0 +1,2 @@
+# Employee-Managment-System-in-C-
+This is a employee management  system made in C++ language using the concept of object oriented programming. This can be used to store data of various employees  of a particular firm. It prints the leading details of  employees in a sorted form as  per their designation. It fulfills the concept of data hiding and hence all the functions are made inside one particular class so that the member functions and data members  can only  be accessed by by class objects and not by outside world.
